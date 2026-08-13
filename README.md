@@ -1,4 +1,4 @@
-# 👨‍💻 futino - Desarrollador JavaScript/TypeScript
+# 👨‍💻  - Desarrollador de software
 
 
 
